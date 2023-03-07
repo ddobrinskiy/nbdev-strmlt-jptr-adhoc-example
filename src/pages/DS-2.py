@@ -11,7 +11,7 @@ import streamlit as st
 from streamlit_jupyter import StreamlitPatcher, tqdm
 
 # %% ../../notebooks/DS-2.ipynb 4
-st.title("Example")
+st.title("Example Test")
 
 # %% ../../notebooks/DS-2.ipynb 5
 st.markdown(
