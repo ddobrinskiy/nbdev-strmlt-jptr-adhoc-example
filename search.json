@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "quarterly dashboard.html",
+    "href": "quarterly dashboard.html",
+    "title": "DS-1",
+    "section": "",
+    "text": "sp = StreamlitPatcher()\nsp.jupyter()  # register patcher with streamlit\n\n\nsp.registered_methods\n\n{'cache',\n 'cache_data',\n 'cache_resource',\n 'caption',\n 'checkbox',\n 'code',\n 'dataframe',\n 'date_input',\n 'expander',\n 'experimental_data_editor',\n 'header',\n 'json',\n 'latex',\n 'markdown',\n 'metric',\n 'multiselect',\n 'radio',\n 'selectbox',\n 'subheader',\n 'text',\n 'text_area',\n 'text_input',\n 'title',\n 'write'}\n\n\n\nfrom nbdev.export import nb_export\n\nimport nbdev; nbdev.nbdev_export()"
+  },
+  {
+    "objectID": "ds-1.html",
+    "href": "ds-1.html",
+    "title": "DS-1",
+    "section": "",
+    "text": "sp = StreamlitPatcher()\nsp.jupyter()  # register patcher with streamlit\n\n\nsp.registered_methods\n\n{'cache',\n 'cache_data',\n 'cache_resource',\n 'caption',\n 'checkbox',\n 'code',\n 'dataframe',\n 'date_input',\n 'expander',\n 'experimental_data_editor',\n 'header',\n 'json',\n 'latex',\n 'markdown',\n 'metric',\n 'multiselect',\n 'radio',\n 'selectbox',\n 'subheader',\n 'text',\n 'text_area',\n 'text_input',\n 'title',\n 'write'}\n\n\n\nfrom nbdev.export import nb_export\n\nimport nbdev; nbdev.nbdev_export()"
+  },
+  {
+    "objectID": "ds-2.html",
+    "href": "ds-2.html",
+    "title": "DS-2",
+    "section": "",
+    "text": "sp = StreamlitPatcher()\nsp.jupyter()  # register patcher with streamlit\n\n\nsp.registered_methods\n\n{'cache',\n 'cache_data',\n 'cache_resource',\n 'caption',\n 'checkbox',\n 'code',\n 'dataframe',\n 'date_input',\n 'expander',\n 'experimental_data_editor',\n 'header',\n 'json',\n 'latex',\n 'markdown',\n 'metric',\n 'multiselect',\n 'radio',\n 'selectbox',\n 'subheader',\n 'text',\n 'text_area',\n 'text_input',\n 'title',\n 'write'}\n\n\n\nfrom nbdev.export import nb_export\n\nimport nbdev; nbdev.nbdev_export()"
+  },
+  {
+    "objectID": "00-app.html",
+    "href": "00-app.html",
+    "title": "App",
+    "section": "",
+    "text": "!nbconvert blah blah ../src/pages/app.py"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-strmlt-jptr-adhoc-example",
+    "section": "",
+    "text": "The streamlit demo is hosted here:\nhttps://nbdev-strmlt-jptr-adhoc-example.streamlit.app/"
+  }
+]
