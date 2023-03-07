@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-strmlt-jptr-adhoc-example"
+  site-url: "https://ddobrinskiy.github.io/nbdev-strmlt-jptr-adhoc-example"
+  description: "This is an example repo for using streamlit, jupyter and nbdev as a dashboard/adhoc repo in a corporate environment"
+  repo-branch: master
+  repo-url: "https://github.com/ddobrinskiy/nbdev-strmlt-jptr-adhoc-example"
